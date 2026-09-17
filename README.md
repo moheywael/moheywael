@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/My_Adventures_with_Superman_%28Adult_Swim%29_logo.svg/1280px-My_Adventures_with_Superman_%28Adult_Swim%29_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" 
+    src="assets/github-banner.png" 
     alt="Mohey Wael Ahmed - Front-End React Developer"
     width="100%"
   />
